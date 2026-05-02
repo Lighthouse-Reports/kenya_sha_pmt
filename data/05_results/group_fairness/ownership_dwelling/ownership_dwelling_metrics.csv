@@ -1,0 +1,7 @@
+Model,Group,Attribute,Ref_Group,TP,FP,TN,FN,N,Group Exclusion Error (FNR),Ref Exclusion Error (FNR),Exclusion Ratio,Exclusion Sig,Group Inclusion Error (FPR),Ref Inclusion Error (FPR),Actual Poverty Share,Predicted Poverty Share,Recall_Group,Recall_Ref,Precision_Group,Precision_Ref
+KCHS,Ownership Dwelling,OWNS,Rest,659,261,1145,386,2451,36.94,45.97,0.8,***,18.56,11.47,42.64,37.54,63.06,54.03,71.63,68.51
+KCHS,Ownership Dwelling,PAYS RENT/LEASE,Rest,138,57,502,114,811,45.24,37.49,1.21,**,10.2,18.63,31.07,24.04,54.76,62.51,70.77,71.04
+KCHS,Ownership Dwelling,"NO RENT, WITH CONSENT OF OWNER",Rest,22,14,63,21,120,48.84,38.62,1.26,insig,18.18,16.26,35.83,30.0,51.16,61.38,61.11,71.31
+IBS,Ownership Dwelling,Owns,Rest,884,341,1320,420,2965,32.21,57.53,0.56,***,20.53,6.76,43.98,41.32,67.79,42.47,72.16,66.51
+IBS,Ownership Dwelling,Pays Rent/Lease,Rest,108,52,823,148,1131,57.81,33.55,1.72,***,5.94,19.61,22.63,14.15,42.19,66.45,67.5,71.81
+IBS,Ownership Dwelling,No Rent With Consent Of Owner,Rest,29,18,152,43,242,59.72,36.32,1.64,***,10.59,15.51,29.75,19.42,40.28,63.68,61.7,71.65

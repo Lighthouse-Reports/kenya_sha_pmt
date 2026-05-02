@@ -1,0 +1,20 @@
+.DS_Store
+**/.DS_Store
+**/__pycache__/
+*.pyc
+
+**/catboost_info/
+**/knbs_health/
+**/scratchpad.ipynb
+**/credentials.json
+gdrive_token*.pickle
+
+# Data folders — ignore contents, keep folders via .gitkeep
+data/01_raw/*
+!data/01_raw/.gitkeep
+data/02_intermediate/*
+!data/02_intermediate/.gitkeep
+data/03_processed/*
+!data/03_processed/.gitkeep
+data/04_models/*
+!data/04_models/.gitkeep

@@ -1,0 +1,11 @@
+Model,Group,Attribute,Ref_Group,TP,FP,TN,FN,N,Group Exclusion Error (FNR),Ref Exclusion Error (FNR),Exclusion Ratio,Exclusion Sig,Group Inclusion Error (FPR),Ref Inclusion Error (FPR),Actual Poverty Share,Predicted Poverty Share,Recall_Group,Recall_Ref,Precision_Group,Precision_Ref
+KCHS,Prop W1864,Mostly men,Rest,390,143,637,202,1372,34.12,42.74,0.8,***,18.33,15.11,43.15,38.85,65.88,57.26,73.17,69.13
+KCHS,Prop W1864,Mixed,Rest,207,105,587,177,1076,46.09,36.08,1.28,***,15.17,16.92,35.69,29.0,53.91,63.92,66.35,72.72
+KCHS,Prop W1864,No women,Rest,190,68,321,102,681,34.93,40.06,0.87,insig,17.48,16.06,42.88,37.89,65.07,59.94,73.64,70.23
+KCHS,Prop W1864,All women,Rest,25,10,130,27,192,51.92,38.42,1.35,*,7.14,17.01,27.08,18.23,48.08,61.58,71.43,70.98
+KCHS,Prop W1864,Mostly women,Rest,8,9,41,15,73,65.22,38.48,1.69,**,18.0,16.29,31.51,23.29,34.78,61.52,47.06,71.35
+IBS,Prop W1864,Mixed,Rest,504,190,895,244,1833,32.62,41.33,0.79,***,17.51,13.65,40.81,37.86,67.38,58.67,72.62,70.12
+IBS,Prop W1864,No women,Rest,93,57,703,149,1002,61.57,33.14,1.86,***,7.5,18.2,24.15,14.97,38.43,66.86,62.0,72.42
+IBS,Prop W1864,Mostly men,Rest,274,113,344,127,858,31.67,39.19,0.81,***,24.73,13.27,46.74,45.1,68.33,60.81,70.8,71.52
+IBS,Prop W1864,Mostly women,Rest,136,44,181,67,428,33.0,37.96,0.87,insig,19.56,14.8,47.43,42.06,67.0,62.04,75.56,70.72
+IBS,Prop W1864,All women,Rest,18,8,176,24,226,57.14,36.83,1.55,***,4.35,15.99,18.58,11.5,42.86,63.17,69.23,71.37

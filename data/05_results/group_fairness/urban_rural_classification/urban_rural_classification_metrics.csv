@@ -1,0 +1,5 @@
+Model,Group,Attribute,Ref_Group,TP,FP,TN,FN,N,Group Exclusion Error (FNR),Ref Exclusion Error (FNR),Exclusion Ratio,Exclusion Sig,Group Inclusion Error (FPR),Ref Inclusion Error (FPR),Actual Poverty Share,Predicted Poverty Share,Recall_Group,Recall_Ref,Precision_Group,Precision_Ref
+KCHS,Urban Rural Classification,Rural,Rest,523,230,1118,406,2277,43.7,29.71,1.47,***,17.06,14.51,40.8,33.07,56.3,70.29,69.46,74.05
+KCHS,Urban Rural Classification,Urban,Rest,291,102,601,123,1117,29.71,43.7,0.68,***,14.51,17.06,37.06,35.18,70.29,56.3,74.05,69.46
+IBS,Urban Rural Classification,Rural,Rest,525,255,1431,408,2619,43.73,28.76,1.52,***,15.12,14.16,35.62,29.78,56.27,71.24,67.31,77.21
+IBS,Urban Rural Classification,Urban,Rest,498,147,891,201,1737,28.76,43.73,0.66,***,14.16,15.12,40.24,37.13,71.24,56.27,77.21,67.31

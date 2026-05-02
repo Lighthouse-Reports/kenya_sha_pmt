@@ -1,0 +1,5 @@
+Model,Group,Attribute,Ref_Group,TP,FP,TN,FN,N,Group Exclusion Error (FNR),Ref Exclusion Error (FNR),Exclusion Ratio,Exclusion Sig,Group Inclusion Error (FPR),Ref Inclusion Error (FPR),Actual Poverty Share,Predicted Poverty Share,Recall_Group,Recall_Ref,Precision_Group,Precision_Ref
+KCHS,Sex,Male,Rest,479,208,1190,324,2201,40.35,36.85,1.09,insig,14.88,19.45,36.48,31.21,59.65,63.15,69.72,72.86
+KCHS,Sex,Female,Rest,341,127,526,199,1193,36.85,40.35,0.91,insig,19.45,14.88,45.26,39.23,63.15,59.65,72.86,69.72
+IBS,Sex,Male,Rest,656,247,1551,399,2853,37.82,36.49,1.04,insig,13.74,18.07,36.98,31.65,62.18,63.51,72.65,69.1
+IBS,Sex,Female,Rest,369,165,748,212,1494,36.49,37.82,0.96,insig,18.07,13.74,38.89,35.74,63.51,62.18,69.1,72.65

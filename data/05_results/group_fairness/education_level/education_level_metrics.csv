@@ -1,0 +1,11 @@
+Model,Group,Attribute,Ref_Group,TP,FP,TN,FN,N,Group Exclusion Error (FNR),Ref Exclusion Error (FNR),Exclusion Ratio,Exclusion Sig,Group Inclusion Error (FPR),Ref Inclusion Error (FPR),Actual Poverty Share,Predicted Poverty Share,Recall_Group,Recall_Ref,Precision_Group,Precision_Ref
+KCHS,Education Level,Primary,Rest,374,178,624,267,1443,41.65,36.47,1.14,*,22.19,12.57,44.42,38.25,58.35,63.53,67.75,73.96
+KCHS,Education Level,Secondary level,Rest,101,47,580,158,886,61.0,33.67,1.81,***,7.5,20.22,29.23,16.7,39.0,66.33,68.24,71.4
+KCHS,Education Level,Dont know,Rest,312,101,91,50,554,13.81,48.22,0.29,***,52.6,12.59,65.34,74.55,86.19,51.78,75.54,68.46
+KCHS,Education Level,Middle level college (certificate/diploma),Rest,17,6,245,29,297,63.04,38.09,1.66,***,2.39,18.28,15.49,7.74,36.96,61.91,73.91,70.94
+KCHS,Education Level,University(Undergraduate),Rest,0,1,130,8,139,100.0,38.58,2.59,***,0.76,17.4,5.76,0.72,0.0,61.42,0.0,71.06
+IBS,Education Level,Primary,Rest,419,200,876,326,1821,43.76,31.99,1.37,***,18.59,12.97,40.91,33.99,56.24,68.01,67.69,74.08
+IBS,Education Level,Secondary,Rest,138,51,678,121,988,46.72,35.58,1.31,***,7.0,18.21,26.21,19.13,53.28,64.42,73.02,71.07
+IBS,Education Level,College (Middle-level),Rest,14,16,298,28,356,66.67,36.57,1.82,***,5.1,16.52,11.8,8.43,33.33,63.43,46.67,71.86
+IBS,Education Level,University Undergraduate,Rest,0,2,129,8,139,100.0,37.04,2.7,***,1.53,15.89,5.76,1.44,0.0,62.96,0.0,71.43
+IBS,Education Level,"Post-primary, Vocational",Rest,10,7,37,7,61,41.18,37.31,1.1,insig,15.91,15.19,27.87,27.87,58.82,62.69,58.82,71.48

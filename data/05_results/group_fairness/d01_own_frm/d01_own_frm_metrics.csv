@@ -1,0 +1,5 @@
+Model,Group,Attribute,Ref_Group,TP,FP,TN,FN,N,Group Exclusion Error (FNR),Ref Exclusion Error (FNR),Exclusion Ratio,Exclusion Sig,Group Inclusion Error (FPR),Ref Inclusion Error (FPR),Actual Poverty Share,Predicted Poverty Share,Recall_Group,Recall_Ref,Precision_Group,Precision_Ref
+KCHS,D01 Own Frm,No,Rest,633,232,1291,377,2533,37.33,43.84,0.85,**,15.23,19.51,39.87,34.15,62.67,56.16,73.18,64.48
+KCHS,D01 Own Frm,Yes,Rest,187,103,425,146,861,43.84,37.33,1.17,**,19.51,15.23,38.68,33.68,56.16,62.67,64.48,73.18
+IBS,D01 Own Frm,No,Rest,781,299,1722,418,3220,34.86,44.16,0.79,***,14.79,16.38,37.24,33.54,65.14,55.84,72.31,68.35
+IBS,D01 Own Frm,Yes,Rest,244,113,577,193,1127,44.16,34.86,1.27,***,16.38,14.79,38.78,31.68,55.84,65.14,68.35,72.31

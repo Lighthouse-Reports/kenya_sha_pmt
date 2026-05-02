@@ -1,0 +1,12 @@
+Model,Group,Attribute,Ref_Group,TP,FP,TN,FN,N,Group Exclusion Error (FNR),Ref Exclusion Error (FNR),Exclusion Ratio,Exclusion Sig,Group Inclusion Error (FPR),Ref Inclusion Error (FPR),Actual Poverty Share,Predicted Poverty Share,Recall_Group,Recall_Ref,Precision_Group,Precision_Ref
+KCHS,Marital Status,MARRIED MONOGAMOUS,Rest,480,206,1171,313,2170,39.47,38.18,1.03,insig,14.96,19.14,36.54,31.61,60.53,61.82,69.97,72.49
+KCHS,Marital Status,WIDOW OR WIDOWER,Rest,185,68,160,88,501,32.23,40.65,0.79,**,29.82,14.65,54.49,50.5,67.77,59.35,73.12,70.4
+KCHS,Marital Status,NEVER MARRIED,Rest,41,16,189,51,297,55.43,37.73,1.47,***,7.8,17.28,30.98,19.19,44.57,62.27,71.93,70.95
+KCHS,Marital Status,SEPARATED,Rest,39,19,105,38,201,49.35,38.31,1.29,*,15.32,16.4,38.31,28.86,50.65,61.69,67.24,71.19
+KCHS,Marital Status,MARRIED POLYGAMOUS,Rest,60,22,64,22,168,26.83,39.73,0.68,**,25.58,15.93,48.81,48.81,73.17,60.27,73.17,70.83
+IBS,Marital Status,Monogamous married,Rest,633,241,1387,354,2615,35.87,39.6,0.91,insig,14.8,15.79,37.74,33.42,64.13,60.4,72.43,69.63
+IBS,Marital Status,Widow or widower,Rest,177,83,273,81,614,31.4,38.46,0.82,**,23.31,13.97,42.02,42.35,68.6,61.54,68.08,72.05
+IBS,Marital Status,Polygamous married,Rest,155,56,144,63,418,28.9,38.65,0.75,***,28.0,14.18,52.15,50.48,71.1,61.35,73.46,70.96
+IBS,Marital Status,Never married,Rest,18,7,285,56,366,75.68,35.53,2.13,***,2.4,16.74,20.22,6.83,24.32,64.47,72.0,71.32
+IBS,Marital Status,Separated,Rest,27,18,148,36,229,57.14,36.55,1.56,***,10.84,15.48,27.51,19.65,42.86,63.45,60.0,71.7
+IBS,Marital Status,Divorced,Rest,12,7,53,20,92,62.5,36.85,1.7,***,11.67,15.28,34.78,20.65,37.5,63.15,63.16,71.44

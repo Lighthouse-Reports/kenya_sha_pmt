@@ -1,0 +1,14 @@
+Model,Group,Attribute,Ref_Group,TP,FP,TN,FN,N,Group Exclusion Error (FNR),Ref Exclusion Error (FNR),Exclusion Ratio,Exclusion Sig,Group Inclusion Error (FPR),Ref Inclusion Error (FPR),Actual Poverty Share,Predicted Poverty Share,Recall_Group,Recall_Ref,Precision_Group,Precision_Ref
+KCHS,Toilet Facility,Pit latrine covered,Rest,384,193,945,343,1865,47.18,29.22,1.61,***,16.96,15.55,38.98,30.94,52.82,70.78,66.55,75.43
+KCHS,Toilet Facility,Pit Latrine uncovered,Rest,171,73,121,54,419,24.0,41.95,0.57,***,37.63,14.11,53.7,58.23,76.0,58.05,70.08,71.24
+KCHS,Toilet Facility,VIP Pit Latrin,Rest,45,11,261,65,382,59.09,37.15,1.59,***,4.04,18.21,28.8,14.66,40.91,62.85,80.36,70.52
+KCHS,Toilet Facility,Flush to Septic tank,Rest,15,6,252,31,304,67.39,37.93,1.78,***,2.33,18.35,15.13,6.91,32.61,62.07,71.43,70.99
+KCHS,Toilet Facility,Open,Rest,189,47,30,18,284,8.7,44.45,0.2,***,61.04,14.59,72.89,83.1,91.3,55.55,80.08,68.66
+KCHS,Toilet Facility,Flush to Main Sewer,Rest,11,4,92,9,116,45.0,38.85,1.16,insig,4.17,16.93,17.24,12.93,55.0,61.15,73.33,70.96
+IBS,Toilet Facility,Pit latrine with slab,Rest,300,130,878,272,1580,47.55,31.86,1.49,***,12.9,16.56,36.2,27.22,52.45,68.14,69.77,72.0
+IBS,Toilet Facility,Pit latrine without slab/open pit,Rest,278,119,493,179,1069,39.17,36.64,1.07,insig,19.44,13.96,42.75,37.14,60.83,63.36,70.03,71.83
+IBS,Toilet Facility,No facility/bush/field,Rest,332,115,139,53,639,13.77,44.6,0.31,***,45.28,12.09,60.25,69.95,86.23,55.4,74.27,70.0
+IBS,Toilet Facility,Ventilated improved pit latrine (vip),Rest,58,28,371,68,525,53.97,35.96,1.5,***,7.02,16.61,24.0,16.38,46.03,64.04,67.44,71.58
+IBS,Toilet Facility,Flush to septic tank,Rest,7,0,176,13,196,65.0,37.0,1.76,**,0.0,16.25,10.2,3.57,35.0,63.0,100.0,71.19
+IBS,Toilet Facility,Flush to piped sewer system,Rest,4,2,147,8,161,66.67,37.13,1.8,*,1.34,16.0,7.45,3.73,33.33,62.87,66.67,71.35
+IBS,Toilet Facility,Flush to pit (latrine),Rest,16,10,78,9,113,36.0,37.37,0.96,insig,11.36,15.33,22.12,23.01,64.0,62.63,61.54,71.51

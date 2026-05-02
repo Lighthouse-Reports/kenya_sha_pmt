@@ -1,0 +1,10 @@
+Model,Group,Attribute,Ref_Group,TP,FP,TN,FN,N,Group Exclusion Error (FNR),Ref Exclusion Error (FNR),Exclusion Ratio,Exclusion Sig,Group Inclusion Error (FPR),Ref Inclusion Error (FPR),Actual Poverty Share,Predicted Poverty Share,Recall_Group,Recall_Ref,Precision_Group,Precision_Ref
+KCHS,Age Household Head,30-40,Rest,174,70,534,120,898,40.82,38.42,1.06,insig,11.59,18.31,32.74,27.17,59.18,61.58,71.31,70.91
+KCHS,Age Household Head,>60,Rest,269,114,280,117,780,30.31,42.42,0.71,***,28.93,13.34,49.49,49.1,69.69,57.58,70.23,71.37
+KCHS,Age Household Head,40-50,Rest,185,75,340,112,712,37.71,39.29,0.96,insig,18.07,15.89,41.71,36.52,62.29,60.71,71.15,70.95
+KCHS,Age Household Head,50-60,Rest,125,54,240,86,505,40.76,38.6,1.06,insig,18.37,15.99,41.78,35.45,59.24,61.4,69.83,71.21
+KCHS,Age Household Head,<30,Rest,67,22,322,88,499,56.77,36.62,1.55,***,6.4,18.34,31.06,17.84,43.23,63.38,75.28,70.64
+IBS,Age Household Head,>60,Rest,436,164,704,225,1529,34.04,39.59,0.86,**,18.89,13.46,43.23,39.24,65.96,60.41,72.67,70.37
+IBS,Age Household Head,40-50,Rest,243,105,648,153,1149,38.64,36.94,1.05,insig,13.94,15.68,34.46,30.29,61.36,63.06,69.83,71.81
+IBS,Age Household Head,50-60,Rest,255,90,423,133,901,34.28,38.3,0.89,insig,17.54,14.65,43.06,38.29,65.72,61.7,73.91,70.51
+IBS,Age Household Head,30-40,Rest,87,52,511,93,743,51.67,35.58,1.45,***,9.24,16.76,24.23,18.71,48.33,64.42,62.59,72.27

@@ -1,0 +1,11 @@
+Model,Group,Attribute,Ref_Group,TP,FP,TN,FN,N,Group Exclusion Error (FNR),Ref Exclusion Error (FNR),Exclusion Ratio,Exclusion Sig,Group Inclusion Error (FPR),Ref Inclusion Error (FPR),Actual Poverty Share,Predicted Poverty Share,Recall_Group,Recall_Ref,Precision_Group,Precision_Ref
+KCHS,Household Size,3 to 4,Rest,223,83,633,170,1109,43.26,37.16,1.16,**,11.59,18.88,35.44,27.59,56.74,62.84,72.88,70.32
+KCHS,Household Size,5 to 6,Rest,232,89,388,131,840,36.09,40.0,0.9,insig,18.66,15.63,43.21,38.21,63.91,60.0,72.27,70.5
+KCHS,Household Size,1,Rest,119,46,343,90,598,43.06,38.18,1.13,insig,11.83,17.39,34.95,27.59,56.94,61.82,72.12,70.81
+KCHS,Household Size,>6,Rest,169,78,146,67,460,28.39,41.19,0.69,***,34.82,14.07,51.3,53.7,71.61,58.81,68.42,71.7
+KCHS,Household Size,2,Rest,77,39,206,65,387,45.77,38.13,1.2,*,15.92,16.39,36.69,29.97,54.23,61.87,66.38,71.51
+IBS,Household Size,3 to 4,Rest,204,91,775,210,1280,50.72,32.82,1.55,***,10.51,17.4,32.34,23.05,49.28,67.18,69.15,71.89
+IBS,Household Size,5 to 6,Rest,320,106,423,179,1028,35.87,37.99,0.94,insig,20.04,14.02,48.54,41.44,64.13,62.01,75.12,69.73
+IBS,Household Size,>6,Rest,426,153,144,72,795,14.46,47.36,0.31,***,51.52,10.73,62.64,72.83,85.54,52.64,73.58,69.81
+IBS,Household Size,1,Rest,36,36,606,85,763,70.25,34.72,2.02,***,5.61,18.17,15.86,9.44,29.75,65.28,50.0,72.45
+IBS,Household Size,2,Rest,39,26,351,65,481,62.5,35.64,1.75,***,6.9,16.54,21.62,13.51,37.5,64.36,60.0,71.87

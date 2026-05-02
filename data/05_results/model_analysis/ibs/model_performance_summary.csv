@@ -1,0 +1,4 @@
+Level,Actual Poor,Predicted Poor,Exclusion (%),Inclusion (%),Balanced Acc,Rank Corr
+Urban,0,280,46.26,33.21,0.735,0.759
+Rural,524,309,64.31,39.48,0.649,0.672
+All,872,589,57.11,36.5,0.684,0.756

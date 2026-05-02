@@ -1,0 +1,7 @@
+,Predicted Not Poor,Predicted Poor,Total,Sector
+Actually Not Poor,601,102,703,Urban
+Actually Poor,123,291,414,Urban
+Total,724,393,1117,Urban
+Actually Not Poor,1115,233,1348,Rural
+Actually Poor,400,529,929,Rural
+Total,1515,762,2277,Rural

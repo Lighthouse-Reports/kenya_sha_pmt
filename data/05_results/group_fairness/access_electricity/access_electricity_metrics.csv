@@ -1,0 +1,5 @@
+Model,Group,Attribute,Ref_Group,TP,FP,TN,FN,N,Group Exclusion Error (FNR),Ref Exclusion Error (FNR),Exclusion Ratio,Exclusion Sig,Group Inclusion Error (FPR),Ref Inclusion Error (FPR),Actual Poverty Share,Predicted Poverty Share,Recall_Group,Recall_Ref,Precision_Group,Precision_Ref
+KCHS,Access Electricity,No,Rest,630,238,616,281,1765,30.85,56.02,0.55,***,27.87,8.1,51.61,49.18,69.15,43.98,72.58,66.2
+KCHS,Access Electricity,Yes,Rest,190,97,1100,242,1629,56.02,30.85,1.82,***,8.1,27.87,26.52,17.62,43.98,69.15,66.2,72.58
+IBS,Access Electricity,No,Rest,912,355,1165,435,2867,32.29,60.9,0.53,***,23.36,4.79,46.98,44.19,67.71,39.1,71.98,66.47
+IBS,Access Electricity,Yes,Rest,113,57,1134,176,1480,60.9,32.29,1.89,***,4.79,23.36,19.53,11.49,39.1,67.71,66.47,71.98
